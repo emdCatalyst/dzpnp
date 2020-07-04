@@ -25,7 +25,7 @@
 
 ## Getting started
 1 - Install the package via npm <br>
-<div align="center"><code>npm installdzpnp</code></div>
+<div align="center"><code>npm install dzpnp</code></div>
 2 - Refer to the <a href="https://github.com/Mahdios/dzpnp/master/API.md">docs</a> for more in depth descriptions and usage.
 
 ## The regex magic
