@@ -1,4 +1,4 @@
-<header align="center">
+<div align="center">
   <h1>dzpnp</h1>
 
   <p><b>DZ</b> (alpha 2 code for algeria) <b>p</b>hone <b>n</b>umber <b>p</b>rocessing . Parsing , region detection and operator detection for algerian numbers</p>
@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/npm/l/dzpnp?style=for-the-badge">
     </a>  
   </div>
-</header>
+</div>
 
 ## Features
 - Support for all of algeria's current mobile operators.
