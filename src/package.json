@@ -1,0 +1,16 @@
+{
+  "name": "dzpnp",
+  "version": "1.0.0",
+  "description": "Phone number parsing , region detection and operator detection for algerian numbers",
+  "main": "index.js",
+  "scripts": {
+    "jsdoc": "jsdoc2md  --files classes/*.js errors/*.js > API.md --heading-depth 2 --separators --template API.hbs"
+  },
+  "keywords": ["phone", "number", "dz", "flexible"],
+  "author": "Mahdi Djaber",
+  "homepage": "https://github.com/Mahdios/dzpnp",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^6.0.1"
+  }
+}
