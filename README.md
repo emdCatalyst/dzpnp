@@ -8,10 +8,7 @@
     </a>
     <a class="npmMinifiedSize" href="https://www.npmjs.com/package/dzpnp">
       <img src="https://img.shields.io/bundlephobia/min/dzpnp?style=for-the-badge">
-    </a>
-    <a class="npmLicenses" href="https://www.npmjs.com/package/dzpnp">
-      <img src="https://img.shields.io/npm/l/dzpnp?style=for-the-badge">
-    </a>  
+    </a> 
   </div>
    <i>Star this project if you're interested :)</i>
 </div>
