@@ -13,6 +13,7 @@
       <img src="https://img.shields.io/npm/l/dzpnp?style=for-the-badge">
     </a>  
   </div>
+   <i>Star this project if you're interested :)</i>
 </div>
 
 ## Features
