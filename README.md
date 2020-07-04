@@ -9,7 +9,7 @@
     <a class="npmMinifiedSize" href="https://www.npmjs.com/package/dzpnp">
       <img src="https://img.shields.io/bundlephobia/min/dzpnp?style=for-the-badge">
     </a>
-    <a class="npmLicense" href="https://www.npmjs.com/package/dzpnp">
+    <a class="npmLicenses" href="https://www.npmjs.com/package/dzpnp">
       <img src="https://img.shields.io/npm/l/dzpnp?style=for-the-badge">
     </a>  
   </div>
